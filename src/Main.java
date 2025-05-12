@@ -39,10 +39,10 @@ public class Main {
         } else if (year > 1584) {
             System.out.println(year + " год не является високосным");
         } else {
-            System.out.println("Год не может быть меньше 1585");
+            System.out.println(" Год не может быть меньше 1585");
         }
 
-        System.out.println("Задание 4");
+        System.out.println(" Задание 4");
 
         int deliveryDistance = 50;
         int days = 0;
